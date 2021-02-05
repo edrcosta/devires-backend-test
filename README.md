@@ -46,7 +46,7 @@ Para este teste, você vai criar uma API REST que possibilite um cadastro de usu
 
 - usar eslint-disable em qualquer lugar
 - usar tipagem any (sem preguiça!)
-- deixar qualquer warning ou erros no console do servidor (tipo aqueles de react-hooks)
+- deixar qualquer warning ou erros no console do servidor 
 - deixar erros do eslint
 - códigos comentados
 - console logs
